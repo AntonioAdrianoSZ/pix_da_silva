@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: ##B0C4DE;
 }
 
 
@@ -100,7 +100,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #ADD8E6;
 
 }
 
@@ -118,7 +118,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #ADD8E6;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
